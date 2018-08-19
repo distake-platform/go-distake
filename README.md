@@ -1,3 +1,3 @@
 # go-distake
 
-Central library of Distake crypto currency
+Central library of Distake crypto currency.
